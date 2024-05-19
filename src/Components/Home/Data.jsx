@@ -55,10 +55,10 @@ export default function Data() {
       </h1>
       <h3 className="home__subtitle">Frontend Developer</h3>
       <p className="home__description">
-        I'm a Frontend Developer based in Italy, nad I'm very passionate and
+        I'm a Frontend Developer based in Italy, and I'm very passionate and
         dedicated to my work.
       </p>
-      <a href="contact" className="button button--flex">
+      <a href="#contact" className="button button--flex">
         Say Hello
         <svg
           className="button__icon"

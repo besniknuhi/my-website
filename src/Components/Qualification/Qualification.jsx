@@ -46,71 +46,17 @@ export default function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Designer</h3>
+                <h3 className="qualification__title">Electronic Engineering</h3>
                 <span className="qualification__subtitle">
-                  Italy - Universita di Padova
+                  Universita di Padova - Italy
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021-Present
+                  <i className="uil uil-calendar-alt"></i> 2021-
                 </div>
               </div>
               <div>
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div></div>
-
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-
-              <div>
-                <h3 className="qualification__title">Art Director</h3>
-                <span className="qualification__subtitle">
-                  Italy - Universita di Padova
-                </span>
-                <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021-Present
-                </div>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div>
-                <h3 className="qualification__title">Web Development</h3>
-                <span className="qualification__subtitle">
-                  Italy - Universita di Padova
-                </span>
-                <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021-Present
-                </div>
-              </div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div></div>
-
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-
-              <div>
-                <h3 className="qualification__title">UX Expert</h3>
-                <span className="qualification__subtitle">
-                  Italy - Universita di Padova
-                </span>
-                <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021-Present
-                </div>
               </div>
             </div>
           </div>
@@ -124,47 +70,10 @@ export default function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Product Designer</h3>
-                <span className="qualification__subtitle">
-                  Italy - Universita di Padova
-                </span>
+                <h3 className="qualification__title">Frontend Developer</h3>
+                <span className="qualification__subtitle">Freelance</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021-Present
-                </div>
-              </div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div></div>
-
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-
-              <div>
-                <h3 className="qualification__title">UX Designer</h3>
-                <span className="qualification__subtitle">
-                  Italy - Universita di Padova
-                </span>
-                <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021-Present
-                </div>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div>
-                <h3 className="qualification__title">Web Designer</h3>
-                <span className="qualification__subtitle">
-                  Italy - Universita di Padova
-                </span>
-                <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021-Present
+                  <i className="uil uil-calendar-alt"></i> 2024-
                 </div>
               </div>
               <div>

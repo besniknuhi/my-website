@@ -21,7 +21,7 @@ export default function Header() {
     <header className="header">
       <nav className="nav container">
         <a href="index.html" className="nav__logo">
-          Besnik
+          My Portfolio
         </a>
 
         <div className={menuToggle ? "nav__menu show-menu" : "nav__menu"}>
@@ -61,7 +61,7 @@ export default function Header() {
                 <i className="uil uil-file-alt nav__icon"></i>Skills
               </a>
             </li>
-            <li className="nav__item">
+            {/* <li className="nav__item">
               <a
                 href="#services"
                 onClick={() => setActiveNav("#services")}
@@ -73,7 +73,7 @@ export default function Header() {
               >
                 <i className="uil uil-briefcase-alt nav__icon"></i>Services
               </a>
-            </li>
+            </li> */}
             <li className="nav__item">
               <a
                 href="#portfolio"

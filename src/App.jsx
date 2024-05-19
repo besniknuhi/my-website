@@ -9,18 +9,20 @@ import Scrollup from "./Components/Scrollup/Scrollup";
 import Services from "./Components/Services/Services";
 import Skills from "./Components/Skills/Skills";
 import Testimonials from "./Components/Testimonials/Testimonials";
-
+import Works from "./Components/Works/Works";
 export default function App() {
   return (
     <>
       <Header />
+
       <main className="main">
         <Home />
         <About />
         <Skills />
-        <Services />
+        {/* <Services /> */}
         <Qualification />
-        <Testimonials />
+        {/* <Works /> */}
+        {/* <Testimonials /> */}
         <Contact />
       </main>
 

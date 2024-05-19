@@ -81,7 +81,7 @@
 }
 
 /*=============== BREAKPOINTS ===============*/
-/* For large devices */
+/* large devices */
 @media screen and (max-width: 992px) {
   .qualification__container {
     margin-left: auto;
@@ -89,7 +89,7 @@
   }
 }
 
-/* For medium devices */
+/* medium devices */
 @media screen and (max-width: 768px) {
   .qualification__container {
     margin-left: 1.5rem;
@@ -107,7 +107,7 @@
   }
 }
 
-/* For small devices */
+/* small devices */
 @media screen and (max-width: 350px) {
   .qualification__data {
     gap: 0.5rem;

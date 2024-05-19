@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Besnik</h1>
+        <h1 className="footer__title">My Portfolio</h1>
 
         <ul className="footer__list">
           <li>
@@ -19,14 +19,14 @@ export default function Footer() {
             </a>
           </li>
 
-          <li>
+          {/* <li>
             <a href="#testimonials" className="footer__link">
               Testimonials
             </a>
-          </li>
+          </li> */}
         </ul>
 
-        <div className="footer__social">
+        {/* <div className="footer__social">
           <a
             href="https://www.facebook.com/"
             className="footer__social-link"
@@ -48,7 +48,7 @@ export default function Footer() {
           >
             <i className="bx bxl-twitter"></i>
           </a>
-        </div>
+        </div> */}
         <span className="footer__copy">
           &#169; Besnik Nuhi. All rights reserved
         </span>

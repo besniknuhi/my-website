@@ -55,8 +55,8 @@ export default function Data() {
       </h1>
       <h3 className="home__subtitle">Frontend Developer</h3>
       <p className="home__description">
-        I'm a Frontend Developer based in Italy, and I'm very passionate and
-        dedicated to my work.
+        Hi, I'm Besnik Nuhi. A passionate Front-end React Developer based in
+        Venice, Italy. 📍
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello

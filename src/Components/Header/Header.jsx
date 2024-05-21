@@ -20,8 +20,8 @@ export default function Header() {
   return (
     <header className="header">
       <nav className="nav container">
-        <a href="index.html" className="nav__logo">
-          My Portfolio
+        <a href="#home" className="nav__logo">
+          besnik.dev
         </a>
 
         <div className={menuToggle ? "nav__menu show-menu" : "nav__menu"}>
@@ -48,32 +48,6 @@ export default function Header() {
                 <i className="uil uil-user nav__icon"></i>About
               </a>
             </li>
-            <li className="nav__item">
-              <a
-                href="#skills"
-                onClick={() => setActiveNav("#skills")}
-                className={
-                  activeNav === "#skills"
-                    ? "nav__link active-link"
-                    : "nav__link"
-                }
-              >
-                <i className="uil uil-file-alt nav__icon"></i>Skills
-              </a>
-            </li>
-            {/* <li className="nav__item">
-              <a
-                href="#services"
-                onClick={() => setActiveNav("#services")}
-                className={
-                  activeNav === "#services"
-                    ? "nav__link active-link"
-                    : "nav__link"
-                }
-              >
-                <i className="uil uil-briefcase-alt nav__icon"></i>Services
-              </a>
-            </li> */}
             <li className="nav__item">
               <a
                 href="#portfolio"

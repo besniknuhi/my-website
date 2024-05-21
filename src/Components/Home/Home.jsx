@@ -1,5 +1,6 @@
 import Data from "./Data";
 import ScrollDown from "./ScollDown";
+import Skill from "./Skill";
 import Social from "./Social";
 import "./home.css";
 
@@ -9,12 +10,11 @@ export default function Home() {
       <div className="home__container container grid">
         <div className="home__content grid">
           <Social />
-
           <div className="home__img"></div>
-
           <Data />
         </div>
-        <ScrollDown />
+        <Skill />
+        {/* <ScrollDown /> */}
       </div>
     </section>
   );

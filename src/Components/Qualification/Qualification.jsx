@@ -5,9 +5,9 @@ export default function Qualification() {
   const [toggleState, setToggleState] = useState(1);
 
   return (
-    <section className="qualifcation section" id="portfolio">
+    <section className="qualifcation section" id="">
       <h2 className="section__title">Qualifications</h2>
-      <span className="section__subtitle">My Personal Journey</span>
+      <span className="section__subtitle"></span>
 
       <div className="qualification__container container">
         <div className="qualification__tabs">

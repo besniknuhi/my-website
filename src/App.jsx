@@ -6,9 +6,6 @@ import Header from "./Components/Header/Header";
 import Home from "./Components/Home/Home";
 import Qualification from "./Components/Qualification/Qualification";
 import Scrollup from "./Components/Scrollup/Scrollup";
-import Services from "./Components/Services/Services";
-import Skills from "./Components/Skills/Skills";
-import Testimonials from "./Components/Testimonials/Testimonials";
 import Works from "./Components/Works/Works";
 export default function App() {
   return (
@@ -18,11 +15,8 @@ export default function App() {
       <main className="main">
         <Home />
         <About />
-        <Skills />
-        {/* <Services /> */}
         <Qualification />
-        {/* <Works /> */}
-        {/* <Testimonials /> */}
+        <Works />
         <Contact />
       </main>
 

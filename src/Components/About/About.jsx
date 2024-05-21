@@ -1,21 +1,26 @@
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
 import CV from "../../assets/cv-besnik-nuhi.pdf";
-import Info from "./Info";
 
 export default function About() {
   return (
     <section className="about section" id="about">
       <h2 className="section__title">About Me</h2>
-      <span className="section__subtitle">My Introduction</span>
+      <span className="section__subtitle"></span>
       <div className="about__container container grid">
         <img src={AboutImg} alt="" className="about__img" />
 
         <div className="about__data">
-          <Info />
+          <h2 className="about__title">
+            Front-end Developer based in Venice, Italy 📍
+          </h2>
 
           <p className="about__description">
-            Frontend Developer, I create web pages with UI/UX user interface.
+            Hey, my name is Besnik, and I'm a Frontend Developer. My passion is
+            to create and develop a clean UI/UX for my users.
+          </p>
+          <p className="about__description">
+            My main stack currently is React in combination with Tailwind CSS.
           </p>
 
           <a download="" href={CV} className="button button--flex">

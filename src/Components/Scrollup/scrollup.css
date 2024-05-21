@@ -7,7 +7,7 @@
   padding: 0.3rem 0.5rem;
   border-radius: 0.4rem;
   z-index: 10;
-  transition: 400ms;
+  transition: 0.3s;
 }
 
 .scrollup__icon {

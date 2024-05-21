@@ -15,18 +15,23 @@
   row-gap: 1rem;
 }
 
-.home__soial-icon {
+.home__social-icon {
   font-size: 1.25rem;
   color: hsl(0, 0%, 20%);
 }
 
-.home__soial-icon:hover {
+.home__social-icon:hover {
   color: hsl(0, 0%, 0%);
 }
 
 .home__title {
   font-size: 3.5rem;
   margin-bottom: 0.25rem;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 2rem;
 }
 
 .home__hand {
@@ -113,6 +118,30 @@
 .home__scroll-arrow {
   font-size: 1.25rem;
   color: hsl(0, 0%, 20%);
+}
+
+/*  SKILLS  */
+.skills {
+  display: flex;
+  gap: 4rem;
+}
+
+.skills p {
+  font-size: 1.25rem;
+}
+
+.skills ul {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.skills ul li {
+  cursor: pointer;
+}
+
+.skills ul li:hover {
+  transition: all 300ms ease-in-out;
+  transform: translateY(-0.8rem);
 }
 
 /* responsive design breakpoints */

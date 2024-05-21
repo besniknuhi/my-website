@@ -1,5 +1,5 @@
 import "./about.css";
-import AboutImg from "../../assets/about.jpg";
+import AboutImg from "../../assets/aboutme.jpg";
 import CV from "../../assets/cv-besnik-nuhi.pdf";
 
 export default function About() {

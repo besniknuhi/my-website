@@ -15,7 +15,7 @@ export default function Contact() {
   return (
     <section className="contact section" id="contact">
       <h1 className="section__title">Get in Touch</h1>
-      <span className="section__subtitle">Contact Me</span>
+      <span className="section__subtitle"></span>
 
       <div className="contact__container container grid">
         <div className="contact__content">

@@ -18,7 +18,7 @@ export default function Skills() {
           </li>
           <li>
             <img
-              src="	https://skillicons.dev/icons?i=tailwind,scss"
+              src="	https://skillicons.dev/icons?i=tailwind"
               alt="skill-icon"
             />
           </li>

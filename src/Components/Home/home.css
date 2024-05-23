@@ -144,6 +144,10 @@ p {
   transform: translateY(-0.8rem);
 }
 
+.skills ul li img {
+  transition: 300ms all ease-in-out;
+}
+
 /* responsive design breakpoints */
 
 /* large devices */

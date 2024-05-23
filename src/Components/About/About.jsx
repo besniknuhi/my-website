@@ -15,13 +15,15 @@ export default function About() {
             Front-end Developer based in Venice, Italy 📍
           </h2>
 
-          <p className="about__description">
-            Hey, my name is Besnik, and I'm a Frontend Developer. My passion is
-            to create and develop a clean UI/UX for my users.
-          </p>
-          <p className="about__description">
-            My main stack currently is React in combination with Tailwind CSS.
-          </p>
+          <div className="description-container">
+            <p className="about__description">
+              Hey, my name is Besnik, and I'm a Frontend Developer. My passion
+              is to create and develop a clean UI/UX for my users.
+            </p>
+            <p className="about__description">
+              My main stack currently is React in combination with Tailwind CSS.
+            </p>
+          </div>
 
           <a download="" href={CV} className="button button--flex">
             Download CV

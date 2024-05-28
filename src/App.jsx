@@ -15,7 +15,7 @@ export default function App() {
       <main className="main">
         <Home />
         <About />
-        <Qualification />
+    {/* <Qualification /> */}
         <Works />
         <Contact />
       </main>

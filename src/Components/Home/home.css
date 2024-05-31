@@ -130,10 +130,15 @@ p {
 .skills {
   display: flex;
   gap: 4rem;
+  align-items: center;
 }
 
 .skills p {
-  font-size: 1.25rem;
+  border-right: 2px solid rgba(45, 46, 50, .5);
+  color: #2d2e32;
+  font-weight: 600;
+  margin-right: 7rem;
+  padding-right: 2rem;
 }
 
 .skills ul {

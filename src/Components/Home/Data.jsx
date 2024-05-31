@@ -5,8 +5,9 @@ export default function Data() {
     <div className="home__data">
       <h1 className="home__title">
         Front-End React Developer
-        <img src={waveEmoji} alt="waving_hand">
+        <img src={waveEmoji} alt="waving_hand" />
       </h1>
+      
       <p className="home__description">
         Hi, I'm Besnik Nuhi. A passionate Front-end React Developer based in
         Venice, Italy. 📍

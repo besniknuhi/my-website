@@ -5,7 +5,7 @@ export default function Data() {
     <div className="home__data">
       <h1 className="home__title">
         Front-End React Developer
-        <img src={waveEmoji} alt="waving_hand" alt="waving hand" />
+        <img className="wave-emoji" src={waveEmoji} alt="waving_hand" alt="waving hand" />
       </h1>
       
       <p className="home__description">

@@ -77,6 +77,11 @@ p {
   border: 3px solid #2d2e32;
 }
 
+.wave-emoji {
+  height: 60px;
+  width: 60px;
+}
+
 @keyframes profile__animate {
   0% {
     border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;

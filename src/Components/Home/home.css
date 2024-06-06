@@ -16,11 +16,7 @@
 }
 
 .home__social-icon {
-<<<<<<< HEAD
   font-size: 2rem;
-=======
-  font-size: 1.25rem;
->>>>>>> 301930ac9e2b225290a1f1789676a1bcf2bad865
   color: hsl(0, 0%, 20%);
 }
 
@@ -72,10 +68,6 @@ p {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-<<<<<<< HEAD
-=======
-  box-shadow: inset 0 0 0 9px rgb(255 255 255 / 30%);
->>>>>>> 301930ac9e2b225290a1f1789676a1bcf2bad865
   order: 1;
   justify-self: center;
   width: 300px;
@@ -141,11 +133,7 @@ p {
 }
 
 .skills p {
-<<<<<<< HEAD
   border-right: 2px solid rgba(45, 46, 50, 0.5);
-=======
-  border-right: 2px solid rgba(45, 46, 50, .5);
->>>>>>> 301930ac9e2b225290a1f1789676a1bcf2bad865
   color: #2d2e32;
   font-weight: 600;
   margin-right: 4rem;
@@ -160,17 +148,10 @@ p {
 
 .skills ul li {
   cursor: pointer;
-<<<<<<< HEAD
   transition: transform 300ms ease-in-out;
 }
 
 .skills ul li:hover {
-=======
-}
-
-.skills ul li:hover {
-  transition: all 300ms ease-in-out;
->>>>>>> 301930ac9e2b225290a1f1789676a1bcf2bad865
   transform: translateY(-0.8rem);
 }
 

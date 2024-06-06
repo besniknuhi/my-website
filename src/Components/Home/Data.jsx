@@ -1,23 +1,13 @@
-<<<<<<< HEAD
 import waveEmoji from "../../assets/waving.png";
-=======
-import waveEmoji from "../../assets/waving.png"
->>>>>>> 301930ac9e2b225290a1f1789676a1bcf2bad865
 
 export default function Data() {
   return (
     <div className="home__data">
       <h1 className="home__title">
         Front-End React Developer
-<<<<<<< HEAD
         <img className="wave-emoji" src={waveEmoji} alt="waving_hand" />
       </h1>
 
-=======
-        <img className="wave-emoji" src={waveEmoji} alt="waving_hand" alt="waving hand" />
-      </h1>
-      
->>>>>>> 301930ac9e2b225290a1f1789676a1bcf2bad865
       <p className="home__description">
         Hi, I'm Besnik Nuhi. A passionate Front-end React Developer based in
         Venice, Italy. 📍

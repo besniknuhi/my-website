@@ -68,7 +68,6 @@
   color: #fff;
 }
 
-<<<<<<< HEAD
 .work-icons-container {
   display: flex;
   justify-content: space-between;
@@ -78,8 +77,6 @@
   font-weight: 600;
 }
 
-=======
->>>>>>> 301930ac9e2b225290a1f1789676a1bcf2bad865
 /*=============== BREAKPOINTS ===============*/
 /* large devices */
 @media screen and (max-width: 992px) {

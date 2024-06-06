@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hi! My name is Besnik Nuhi 😄
 
 🌍  I am a Front-End Developer based in Venice, Italy.
@@ -16,4 +15,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-=======

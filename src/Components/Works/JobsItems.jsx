@@ -5,7 +5,7 @@ const JobsItems = ({ item }) => {
       <h3 className="work__title">{item.title}</h3>
       <div className="work-icons-container">
         <a
-          href="https://besniknuhi.github.io/e-commerce/"
+          href="https://besnik-e-commerce.vercel.app/"
           className="work__button"
         >
           Demo <i className="bx bx-right-arrow-alt work__button-icon"></i>

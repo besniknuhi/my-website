@@ -4,7 +4,7 @@ export const projectsData = [
   {
     id: 5,
     image: ecomm,
-    title: "e-commerce website",
+    title: "RAOUF e-commerce",
     category: "web",
   },
 ];

@@ -8,6 +8,7 @@ export const projectsData = [
     title: "RAOUF e-commerce",
     category: "web",
     tools: "ts,react",
+    url: "https://raouf-ecomm.vercel.app/",
   },
   {
     id: 2,
@@ -15,6 +16,7 @@ export const projectsData = [
     title: "Car Rental",
     category: "web",
     tools: "js,react",
+    url: "https://car-rental-bni.vercel.app/",
   },
 ];
 

@@ -8,7 +8,10 @@ const JobsItems = ({ item }) => {
           Demo <i className="bx bx-right-arrow-alt work__button-icon"></i>
         </a>
         <span>
-          <img src="https://skillicons.dev/icons?i=ts,react" alt="skill-icon" />
+          <img
+            src={`https://skillicons.dev/icons?i=${item.tools}`}
+            alt="skill-icon"
+          />
         </span>
       </div>
     </div>

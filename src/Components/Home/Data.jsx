@@ -1,10 +1,11 @@
 import waveEmoji from "../../assets/waving.png";
+import Social from "./Social";
 
 export default function Data() {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Front-End React Developer
+        Front-End React Developer{"  "}
         <img className="wave-emoji" src={waveEmoji} alt="waving_hand" />
       </h1>
 
@@ -12,6 +13,7 @@ export default function Data() {
         Hi, I'm Besnik Nuhi. A passionate Front-end React Developer based in
         Venice, Italy. 📍
       </p>
+      <Social />
       <a href="#contact" className="button button--flex">
         Say Hello
         <svg

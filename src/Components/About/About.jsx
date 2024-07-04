@@ -17,8 +17,7 @@ export default function About() {
 
           <div className="description-container">
             <p className="about__description">
-              Hey, my name is Besnik, and I'm a Frontend Developer. My passion
-              is to create and develop a clean UI/UX for my users.
+              Hey, my name is Besnik, and I'm a Frontend Developer.
             </p>
             <p className="about__description">
               My main stack currently is React in combination with Tailwind CSS.

@@ -14,11 +14,14 @@ export default function Skills() {
             <img src="https://skillicons.dev/icons?i=js,ts" alt="skill-icon" />
           </li>
           <li>
-            <img src="https://skillicons.dev/icons?i=react" alt="skill-icon" />
+            <img
+              src="https://skillicons.dev/icons?i=react,nodejs"
+              alt="skill-icon"
+            />
           </li>
           <li>
             <img
-              src="	https://skillicons.dev/icons?i=tailwind"
+              src="	https://skillicons.dev/icons?i=tailwind,scss"
               alt="skill-icon"
             />
           </li>

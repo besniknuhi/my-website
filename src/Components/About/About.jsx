@@ -12,7 +12,7 @@ export default function About() {
 
         <div className="about__data">
           <h2 className="about__title">
-            Front-end Developer based in Venice, Italy 📍
+            Front-end Developer based in Winterthur, Switzerland 📍
           </h2>
 
           <div className="description-container">
@@ -20,7 +20,7 @@ export default function About() {
               Hey, my name is Besnik, and I'm a Frontend Developer.
             </p>
             <p className="about__description">
-              My main stack currently is React in combination with Tailwind CSS.
+              My main stack currently is React, Typescript, Node and Tailwind.
             </p>
           </div>
 

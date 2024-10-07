@@ -5,13 +5,13 @@ export default function Data() {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Front-End React Developer{"  "}
+        Software Developer{"  "}
         <img className="wave-emoji" src={waveEmoji} alt="waving_hand" />
       </h1>
 
       <p className="home__description">
-        Hi, I'm Besnik Nuhi. A passionate Front-end React Developer based in
-        Venice, Italy. 📍
+        Hi, I'm Besnik Nuhi. A passionate Front-End Developer based in
+        Winterthur, Switzerland. 📍
       </p>
       <Social />
       <a href="#contact" className="button button--flex">

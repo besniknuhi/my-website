@@ -107,6 +107,8 @@ p {
   display: flex;
   gap: 4rem;
   align-items: center;
+  max-width: 80%;
+  margin: auto;
 }
 
 .skills p {
@@ -163,6 +165,22 @@ p {
   .home__scroll {
     margin-left: 7.5rem;
   }
+
+  .skills {
+    flex-direction: column;
+    margin: auto;
+    max-width: 750px;
+  }
+
+  .skills p {
+    margin: auto;
+  }
+
+  .logos {
+    display: flex;
+    gap: 2rem;
+    margin-left: 4rem;
+  }
 }
 
 /* medium devices */
@@ -179,8 +197,8 @@ p {
   .home__img {
     order: initial;
     justify-self: center;
-    width: 300px;
-    height: 300px;
+    width: 280px;
+    height: 280px;
     margin-left: 50px;
   }
 

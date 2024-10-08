@@ -1,6 +1,6 @@
 # Hi! My name is Besnik Nuhi 😄
 
-🌍  I am a Front-End Developer based in Venice, Italy.
+🌍  I am a Front-End Developer based in Winterthur, Switzerland.
 <br/>
 
 ### Skills
